@@ -1,0 +1,7 @@
+/.idea/
+
+# `target/` folder in all sub-directories
+**/target/*
+
+# `*.iml` files in all sub-directories
+**/*.iml
